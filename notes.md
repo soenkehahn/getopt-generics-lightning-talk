@@ -17,6 +17,4 @@
   - nice parse errors
   - posix-compliant cli
 - `B.hs`: using `getArguments` and a tuple
-- `C.hs`: add another mode
-  - doesn't work yet
 - `getopt-generics` is work in progress
